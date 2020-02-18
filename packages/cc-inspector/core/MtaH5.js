@@ -1,0 +1,1 @@
+!function(){var t=document.createElement("script");t.src="http://pingjs.qq.com/h5/stats.js?v2.0.2",t.setAttribute("name","MTAH5"),t.setAttribute("sid","500654265");var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}();

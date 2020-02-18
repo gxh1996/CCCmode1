@@ -1,0 +1,131 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": 0,
+      "y": 0,
+      "width": 1280,
+      "height": 720,
+      "layout": {
+        "children": [
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "hierarchy",
+                  "cc-inspector"
+                ],
+                "height": 302.65625,
+                "type": "panel",
+                "width": 204
+              },
+              {
+                "active": 0,
+                "children": [
+                  "assets"
+                ],
+                "height": 298.66668701171875,
+                "type": "panel",
+                "width": 204
+              }
+            ],
+            "height": 604.3333740234375,
+            "type": "dock-v",
+            "width": 204
+          },
+          {
+            "active": 0,
+            "children": [
+              "inspector",
+              "cc-inspector.info"
+            ],
+            "height": 604.3333740234375,
+            "type": "panel",
+            "width": 304
+          },
+          {
+            "active": 0,
+            "children": [
+              "scene",
+              "console"
+            ],
+            "height": 604.3333740234375,
+            "type": "panel",
+            "width": 752
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "hierarchy",
+        "cc-inspector",
+        "assets",
+        "inspector",
+        "cc-inspector.info",
+        "scene",
+        "console"
+      ]
+    },
+    "worker": {}
+  },
+  "panels": {
+    "cc-inspector.set": {
+      "x": 480,
+      "y": 130,
+      "width": 316,
+      "height": 438
+    },
+    "cc-inspector.info": {
+      "x": 430,
+      "y": 180,
+      "width": 416,
+      "height": 338
+    },
+    "cc-inspector": {
+      "x": 430,
+      "y": 180,
+      "width": 416,
+      "height": 338
+    },
+    "cc-inspector.preview-web": {
+      "x": 430,
+      "y": 180,
+      "width": 416,
+      "height": 338
+    },
+    "preferences": {
+      "x": 350,
+      "y": 80,
+      "width": 602,
+      "height": 564
+    },
+    "store": {
+      "x": 230,
+      "y": 30,
+      "width": 816,
+      "height": 638
+    },
+    "console": {
+      "x": 430,
+      "y": 180,
+      "width": 420,
+      "height": 338
+    }
+  },
+  "panelLabelWidth": {
+    "inspector": null,
+    "cc-inspector": {
+      "set": null,
+      "info": null
+    },
+    "preferences": null
+  },
+  "panelLabelWidth.inspector": null,
+  "panelLabelWidth.cc-inspector.set": null,
+  "panelLabelWidth.cc-inspector.info": null,
+  "panelLabelWidth.preferences": null
+}

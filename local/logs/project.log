@@ -1,0 +1,121 @@
+2020-02-18T09:02:50.094Z - normal: Load ~/.CocosCreator/settings.json
+2020-02-18T09:02:50.199Z - normal: Initializing Asset Database
+2020-02-18T09:02:50.202Z - normal: checking language setting...
+2020-02-18T09:02:50.202Z - normal: Language: zh
+2020-02-18T09:02:51.462Z - success: preview server running at http://localhost:7456
+2020-02-18T09:02:51.471Z - success: protocol editor-framework registered
+2020-02-18T09:02:51.471Z - success: protocol app registered
+2020-02-18T09:02:51.471Z - success: protocol theme registered
+2020-02-18T09:02:51.471Z - success: protocol packages registered
+2020-02-18T09:02:51.471Z - success: protocol uuid registerred
+2020-02-18T09:02:51.471Z - success: protocol db registerred
+2020-02-18T09:02:51.471Z - success: protocol thumbnail registerred
+2020-02-18T09:02:51.472Z - success: protocol unpack registerred
+2020-02-18T09:02:51.472Z - success: protocol disable-commonjs registerred
+2020-02-18T09:02:51.792Z - normal: connected!
+2020-02-18T09:02:51.794Z - normal: Check project E:\Project\cocosProject\CCCmode1
+2020-02-18T09:02:51.798Z - normal: Initializing project E:\Project\cocosProject\CCCmode1
+2020-02-18T09:02:51.845Z - success: adapters loaded
+2020-02-18T09:02:51.851Z - success: asset-db-debugger loaded
+2020-02-18T09:02:51.927Z - success: fb-audience-network loaded
+2020-02-18T09:02:51.953Z - success: fb-live-stream loaded
+2020-02-18T09:02:51.956Z - success: google-play-instant loaded
+2020-02-18T09:02:51.957Z - success: huawei-adapter loaded
+2020-02-18T09:02:51.958Z - success: jkw-adapter loaded
+2020-02-18T09:02:51.959Z - success: jsb-adapter loaded
+2020-02-18T09:02:51.959Z - success: oppo-adapter loaded
+2020-02-18T09:02:51.965Z - success: package-manager loaded
+2020-02-18T09:02:51.966Z - success: qtt-adapter loaded
+2020-02-18T09:02:51.970Z - success: runtime-dev-tools loaded
+2020-02-18T09:02:51.978Z - success: sdkbox loaded
+2020-02-18T09:02:51.981Z - success: ui-kit-preview-extra loaded
+2020-02-18T09:02:51.983Z - success: ui-kit-preview loaded
+2020-02-18T09:02:51.984Z - success: vivo-adapter loaded
+2020-02-18T09:02:52.627Z - success: alipay-minigame loaded
+2020-02-18T09:02:52.741Z - success: assets loaded
+2020-02-18T09:02:52.746Z - success: baidugame-opendata loaded
+2020-02-18T09:02:52.750Z - success: baidugame loaded
+2020-02-18T09:02:52.754Z - success: builder loaded
+2020-02-18T09:02:53.096Z - success: cocos-services loaded
+2020-02-18T09:02:53.099Z - success: console loaded
+2020-02-18T09:02:53.101Z - success: curve-editor loaded
+2020-02-18T09:02:53.115Z - success: fb-instant-games loaded
+2020-02-18T09:02:53.118Z - success: game-window loaded
+2020-02-18T09:02:53.118Z - success: google-instant-games loaded
+2020-02-18T09:02:53.121Z - success: hierarchy loaded
+2020-02-18T09:02:53.125Z - success: huawei-runtime loaded
+2020-02-18T09:02:53.127Z - success: inspector loaded
+2020-02-18T09:02:53.197Z - success: cpk-publish loaded
+2020-02-18T09:02:53.199Z - success: keystore loaded
+2020-02-18T09:02:53.205Z - success: node-library loaded
+2020-02-18T09:02:53.206Z - success: open-recent-items loaded
+2020-02-18T09:02:53.211Z - success: oppo-runtime loaded
+2020-02-18T09:02:53.213Z - success: package-asset loaded
+2020-02-18T09:02:53.214Z - success: preferences loaded
+2020-02-18T09:02:53.215Z - success: project-importer loaded
+2020-02-18T09:02:53.216Z - success: project-settings loaded
+2020-02-18T09:02:53.234Z - success: qtt-runtime loaded
+2020-02-18T09:02:53.239Z - success: scene loaded
+2020-02-18T09:02:53.240Z - success: simulator-debugger loaded
+2020-02-18T09:02:53.241Z - success: sprite-editor loaded
+2020-02-18T09:02:53.243Z - success: store loaded
+2020-02-18T09:02:53.246Z - success: timeline loaded
+2020-02-18T09:02:53.250Z - success: vivo-runtime loaded
+2020-02-18T09:02:53.253Z - success: wechatgame-opendata loaded
+2020-02-18T09:02:53.256Z - success: wechatgame loaded
+2020-02-18T09:02:53.260Z - success: xiaomi-runtime loaded
+2020-02-18T09:02:53.264Z - success: excel-killer loaded
+2020-02-18T09:02:53.269Z - success: produce_map_grid loaded
+2020-02-18T09:02:53.273Z - success: proto-killer loaded
+2020-02-18T09:02:53.459Z - failed: Failed to load package at C:\Users\guoxiaohu\.CocosCreator\packages\quick-preview-master: Failed to load main.js: TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+    at validateString (internal/validators.js:105:11)
+    at Object.join (path.js:372:7)
+    at Object.<anonymous> (C:\Users\guoxiaohu\.CocosCreator\packages\quick-preview-master\main.js:14:24)
+    at Module._compile (internal/modules/cjs/loader.js:839:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:851:10)
+    at Module.load (internal/modules/cjs/loader.js:701:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:633:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:625:3)
+    at Module.require (internal/modules/cjs/loader.js:739:19)
+    at require (internal/modules/cjs/helpers.js:14:16)
+2020-02-18T09:02:53.476Z - success: ui-creator loaded
+2020-02-18T09:02:53.553Z - success: cc-inspector loaded
+2020-02-18T09:02:55.722Z - normal: Initializing Cocos2d
+2020-02-18T09:02:56.341Z - normal: Initializing engine extends
+2020-02-18T09:02:57.943Z - info: Cocos Service load base data!
+2020-02-18T09:03:05.006Z - normal: Loading packages
+2020-02-18T09:03:05.019Z - failed: Failed to load package at C:\Users\guoxiaohu\.CocosCreator\packages\quick-preview-master: Failed to load main.js: TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+    at validateString (internal/validators.js:105:11)
+    at Object.join (path.js:372:7)
+    at Object.<anonymous> (C:\Users\guoxiaohu\.CocosCreator\packages\quick-preview-master\main.js:14:24)
+    at Module._compile (internal/modules/cjs/loader.js:839:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:851:10)
+    at Module.load (internal/modules/cjs/loader.js:701:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:633:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:625:3)
+    at Module.require (internal/modules/cjs/loader.js:739:19)
+    at require (internal/modules/cjs/helpers.js:14:16)
+2020-02-18T09:03:05.019Z - normal: Watching packages
+2020-02-18T09:03:06.314Z - normal: Run Application
+2020-02-18T09:03:13.400Z - normal: [cc-inspector] 插件启动成功: 6543
+2020-02-18T09:03:14.251Z - error: TypeError: Cannot read property 'name' of null
+    at Object.stashScene (D:\CocosCreator230\resources\app.asar\editor\page\scene-utils\index.js:1:2880)
+    at HTMLElement.preview-server-scene-stashed (D:\CocosCreator230\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:763)
+    at EventEmitter.<anonymous> (D:\CocosCreator230\resources\app.asar\editor-framework\lib\renderer\ui\panel\frame.js:1:3124)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2020-02-18T09:03:52.587Z - error: TypeError: Cannot read property 'name' of null
+    at Object.stashScene (D:\CocosCreator230\resources\app.asar\editor\page\scene-utils\index.js:1:2880)
+    at HTMLElement.play-on-device (D:\CocosCreator230\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:567)
+    at EventEmitter.<anonymous> (D:\CocosCreator230\resources\app.asar\editor-framework\lib\renderer\ui\panel\frame.js:1:3124)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2020-02-18T09:04:02.361Z - error: TypeError: Cannot read property 'name' of null
+    at Object.stashScene (D:\CocosCreator230\resources\app.asar\editor\page\scene-utils\index.js:1:2880)
+    at HTMLElement.play-on-device (D:\CocosCreator230\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:567)
+    at EventEmitter.<anonymous> (D:\CocosCreator230\resources\app.asar\editor-framework\lib\renderer\ui\panel\frame.js:1:3124)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
